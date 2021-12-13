@@ -1,0 +1,20 @@
+{
+  "qInfo": {
+    "qId": "jGmg",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Q1_p",
+    "qDef": "Sum({1<FiscalYear={\"$(vPriorYear)\"},Quarter={\"Q1\"}>}Sales)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Q1'",
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Q1_p",
+    "description": "",
+    "tags": []
+  }
+}

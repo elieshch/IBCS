@@ -1,0 +1,8 @@
+{
+  "id": "51b3414b-4f6b-48f9-b315-fa628a00ee66",
+  "dataLocation": "%StaticContentRoot%\\Extensions\\styled-lists\\wbfolder.wbl",
+  "logicalPath": "/extensions/styled-lists/wbfolder.wbl",
+  "externalPath": "/extensions/styled-lists/wbfolder.wbl",
+  "serveOptions": 0,
+  "Content": "styled-lists.qext;\nstyled-lists.js;\nstyle.css"
+}

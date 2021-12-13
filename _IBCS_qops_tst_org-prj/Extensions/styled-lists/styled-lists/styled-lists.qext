@@ -1,0 +1,8 @@
+{
+  "id": "3b0bc5c9-8546-4382-873d-9a5e810def32",
+  "dataLocation": "%StaticContentRoot%\\Extensions\\styled-lists\\styled-lists.qext",
+  "logicalPath": "/extensions/styled-lists/styled-lists.qext",
+  "externalPath": "/extensions/styled-lists/styled-lists.qext",
+  "serveOptions": 0,
+  "Content": "{\n    \"name\": \"Styled list\",\n    \"description\": \"${name}\",\n    \"icon\": \"list\",\n    \"type\": \"visualization\",\n    \"version\": 1.2,\n    \"preview\": \"listbox\",\n    \"author\": \"\"\n}"
+}

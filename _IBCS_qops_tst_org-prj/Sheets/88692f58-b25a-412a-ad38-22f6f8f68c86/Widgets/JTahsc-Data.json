@@ -1,0 +1,256 @@
+{
+  "qInfo": {
+    "qId": "JTahsc",
+    "qType": "mekkochart"
+  },
+  "qMetaDef": {},
+  "qHyperCubeDef": {
+    "qDimensions": [
+      {
+        "qDef": {
+          "qGrouping": "N",
+          "qFieldDefs": [
+            "Brand"
+          ],
+          "qFieldLabels": [
+            ""
+          ],
+          "qSortCriterias": [
+            {
+              "qSortByNumeric": 1,
+              "qSortByAscii": 1,
+              "qSortByLoadOrder": 1,
+              "qExpression": {}
+            }
+          ],
+          "qNumberPresentations": [],
+          "qActiveField": 0,
+          "autoSort": true,
+          "cId": "jcXtsm",
+          "othersLabel": "Другие"
+        },
+        "qNullSuppression": true,
+        "qOtherTotalSpec": {
+          "qOtherMode": "OTHER_OFF",
+          "qOtherCounted": {
+            "qv": "10"
+          },
+          "qOtherLimit": {
+            "qv": "0"
+          },
+          "qOtherLimitMode": "OTHER_GE_LIMIT",
+          "qForceBadValueKeeping": true,
+          "qApplyEvenWhenPossiblyWrongResult": true,
+          "qOtherSortMode": "OTHER_SORT_DESCENDING",
+          "qTotalMode": "TOTAL_OFF",
+          "qReferencedExpression": {}
+        },
+        "qOtherLabel": {
+          "qv": "Другие"
+        },
+        "qTotalLabel": {},
+        "qCalcCond": {},
+        "qAttributeExpressions": [],
+        "qAttributeDimensions": [],
+        "qCalcCondition": {
+          "qCond": {},
+          "qMsg": {}
+        },
+        "othersLabel": "Другие"
+      },
+      {
+        "qDef": {
+          "qGrouping": "N",
+          "qFieldDefs": [
+            "Quarter"
+          ],
+          "qFieldLabels": [
+            ""
+          ],
+          "qSortCriterias": [
+            {
+              "qSortByNumeric": 1,
+              "qSortByAscii": 1,
+              "qSortByLoadOrder": 1,
+              "qExpression": {}
+            }
+          ],
+          "qNumberPresentations": [],
+          "qActiveField": 0,
+          "autoSort": true,
+          "cId": "ZaTCUD",
+          "othersLabel": "Другие",
+          "roles": [
+            {
+              "role": "color"
+            }
+          ]
+        },
+        "qNullSuppression": true,
+        "qOtherTotalSpec": {
+          "qOtherMode": "OTHER_OFF",
+          "qOtherCounted": {
+            "qv": "10"
+          },
+          "qOtherLimit": {
+            "qv": "0"
+          },
+          "qOtherLimitMode": "OTHER_GE_LIMIT",
+          "qForceBadValueKeeping": true,
+          "qApplyEvenWhenPossiblyWrongResult": true,
+          "qOtherSortMode": "OTHER_SORT_DESCENDING",
+          "qTotalMode": "TOTAL_OFF",
+          "qReferencedExpression": {}
+        },
+        "qOtherLabel": {
+          "qv": "Другие"
+        },
+        "qTotalLabel": {},
+        "qCalcCond": {},
+        "qAttributeExpressions": [],
+        "qAttributeDimensions": [],
+        "qCalcCondition": {
+          "qCond": {},
+          "qMsg": {}
+        },
+        "othersLabel": "Другие"
+      }
+    ],
+    "qMeasures": [
+      {
+        "qLibraryId": "szgmjj",
+        "qDef": {
+          "qTags": [],
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 10,
+            "qUseThou": 0
+          },
+          "qAccumulate": 0,
+          "qActiveExpression": 0,
+          "qExpressions": [],
+          "autoSort": true,
+          "cId": "zEDBqG",
+          "numFormatFromTemplate": true
+        },
+        "qSortBy": {
+          "qSortByNumeric": -1,
+          "qSortByLoadOrder": 1,
+          "qExpression": {}
+        },
+        "qAttributeExpressions": [],
+        "qAttributeDimensions": [],
+        "qCalcCond": {},
+        "qCalcCondition": {
+          "qCond": {},
+          "qMsg": {}
+        }
+      }
+    ],
+    "qInterColumnSortOrder": [
+      0,
+      1,
+      2
+    ],
+    "qSuppressZero": true,
+    "qSuppressMissing": true,
+    "qInitialDataFetch": [
+      {
+        "qLeft": 0,
+        "qTop": 0,
+        "qWidth": 3,
+        "qHeight": 3333
+      }
+    ],
+    "qReductionMode": "N",
+    "qMode": "S",
+    "qPseudoDimPos": -1,
+    "qNoOfLeftDims": -1,
+    "qAlwaysFullyExpanded": true,
+    "qMaxStackedCells": 3000,
+    "qCalcCond": {},
+    "qTitle": {},
+    "qCalcCondition": {
+      "qCond": {},
+      "qMsg": {}
+    },
+    "qColumnOrder": [],
+    "qLayoutExclude": {
+      "qHyperCubeDef": {
+        "qDimensions": [],
+        "qMeasures": [],
+        "qInterColumnSortOrder": [],
+        "qInitialDataFetch": [],
+        "qReductionMode": "N",
+        "qMode": "S",
+        "qPseudoDimPos": -1,
+        "qNoOfLeftDims": -1,
+        "qMaxStackedCells": 5000,
+        "qCalcCond": {},
+        "qTitle": {},
+        "qCalcCondition": {
+          "qCond": {},
+          "qMsg": {}
+        },
+        "qColumnOrder": []
+      }
+    }
+  },
+  "showTitles": true,
+  "title": {
+    "qStringExpression": {
+      "qExpr": "'Actual Sales '&vMaxYear"
+    }
+  },
+  "subtitle": "",
+  "footnote": "",
+  "showDetails": false,
+  "visualization": "mekkochart",
+  "qLayoutExclude": {
+    "disabled": {
+      "qExtendsId": "",
+      "isRecommended": false,
+      "labels": {
+        "auto": true,
+        "headers": true,
+        "overlay": true,
+        "leaves": true,
+        "values": false
+      },
+      "color": {
+        "auto": true,
+        "mode": "primary",
+        "useBaseColors": "off",
+        "paletteColor": {
+          "index": 6
+        },
+        "useDimColVal": true,
+        "useMeasureGradient": true,
+        "persistent": true,
+        "expressionIsColor": true,
+        "expressionLabel": "",
+        "measureScheme": "sg",
+        "reverseScheme": false,
+        "dimensionScheme": "12",
+        "autoMinMax": true,
+        "measureMin": 0,
+        "measureMax": 10
+      },
+      "legend": {
+        "show": false,
+        "dock": "auto",
+        "showTitle": true
+      }
+    },
+    "quarantine": {}
+  },
+  "cellColor": {
+    "mode": "auto",
+    "legend": {
+      "show": false,
+      "showTitle": true
+    }
+  },
+  "version": "1.0.0"
+}

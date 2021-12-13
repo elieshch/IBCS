@@ -1,0 +1,11 @@
+{
+  "WidgetJson": "JTahsc-Data.json",
+  "Row": 7,
+  "Column": 18,
+  "Width": 9,
+  "Height": 6,
+  "Id": "JTahsc",
+  "Title": "'Actual Sales '&vMaxYear",
+  "Type": "mekkochart",
+  "Children": []
+}

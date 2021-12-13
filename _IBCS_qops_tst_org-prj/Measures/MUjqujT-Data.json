@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "MUjqujT",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Sales vs FC",
+    "qDef": "RangeSum([Actual Sales],-[FC Sales])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Sales vs FC",
+    "description": "",
+    "tags": []
+  }
+}

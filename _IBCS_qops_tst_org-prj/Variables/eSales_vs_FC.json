@@ -1,0 +1,6 @@
+{
+  "Name": "eSales_vs_FC",
+  "Definition": "RangeSum(Sum({<FiscalYear={\"$(vMaxYear)\"}>}[Sales]),\n\t\t-Sum({<FiscalYear={\"$(vMaxYear)\"}>}[FC_Sales]))",
+  "IsScript": false,
+  "Id": "a8746de6-73f5-4e05-af2d-7a9923799fcc"
+}

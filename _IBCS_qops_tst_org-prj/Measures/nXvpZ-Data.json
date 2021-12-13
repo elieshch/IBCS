@@ -1,0 +1,20 @@
+{
+  "qInfo": {
+    "qId": "nXvpZ",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "ActualSales PriorYear",
+    "qDef": "Sum({1<FiscalYear={\"$(vPriorYear)\"}>}Sales)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "=vPriorYear",
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "ActualSales PriorYear",
+    "description": "",
+    "tags": []
+  }
+}

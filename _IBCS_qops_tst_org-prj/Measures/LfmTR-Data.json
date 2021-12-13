@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "LfmTR",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "FC Sales",
+    "qDef": "Sum({<FiscalYear={\"$(vMaxYear)\"}>}[FC_Sales])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "FC Sales",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Sheet": {
+    "Id": "88692f58-b25a-412a-ad38-22f6f8f68c86",
+    "Title": "QlikSense",
+    "Description": "",
+    "Rows": 18,
+    "Columns": 27
+  },
+  "SheetProperties": {
+    "Id": "88692f58-b25a-412a-ad38-22f6f8f68c86",
+    "PropertiesJson": "{\r\n  \"qInfo\": {\r\n    \"qId\": \"88692f58-b25a-412a-ad38-22f6f8f68c86\",\r\n    \"qType\": \"sheet\"\r\n  },\r\n  \"thumbnail\": {},\r\n  \"labelExpression\": \"\",\r\n  \"rank\": 1,\r\n  \"navPoints\": [],\r\n  \"descriptionExpression\": \"\",\r\n  \"layoutOptions\": {\r\n    \"sheetMode\": \"CUSTOM\"\r\n  },\r\n  \"pxHeight\": 1024,\r\n  \"pxWidth\": 1920,\r\n  \"gridResolution\": \"large\",\r\n  \"rows\": 18,\r\n  \"columns\": 27,\r\n  \"cells\": [\r\n    {\r\n      \"type\": \"styled-lists\",\r\n      \"bounds\": {\r\n        \"y\": 50,\r\n        \"x\": 0,\r\n        \"width\": 11.111111111111111,\r\n        \"height\": 22.222222222222221\r\n      },\r\n      \"col\": 0,\r\n      \"name\": \"jCBWs\",\r\n      \"row\": 9,\r\n      \"colspan\": 3,\r\n      \"rowspan\": 4\r\n    },\r\n    {\r\n      \"type\": \"styled-lists\",\r\n      \"bounds\": {\r\n        \"y\": 22.222222222222221,\r\n        \"x\": 0,\r\n        \"width\": 11.111111111111111,\r\n        \"height\": 27.777777777777779\r\n      },\r\n      \"col\": 0,\r\n      \"name\": \"jPgbS\",\r\n      \"row\": 4,\r\n      \"colspan\": 3,\r\n      \"rowspan\": 5\r\n    },\r\n    {\r\n      \"type\": \"mekkochart\",\r\n      \"col\": 18,\r\n      \"name\": \"JTahsc\",\r\n      \"row\": 7,\r\n      \"colspan\": 9,\r\n      \"rowspan\": 6\r\n    },\r\n    {\r\n      \"type\": \"pivot-table\",\r\n      \"col\": 3,\r\n      \"name\": \"mjLgpK\",\r\n      \"row\": 7,\r\n      \"colspan\": 14,\r\n      \"rowspan\": 6\r\n    },\r\n    {\r\n      \"type\": \"barchart\",\r\n      \"col\": 18,\r\n      \"name\": \"PEWPbPP\",\r\n      \"row\": 1,\r\n      \"colspan\": 9,\r\n      \"rowspan\": 5\r\n    },\r\n    {\r\n      \"type\": \"table\",\r\n      \"col\": 3,\r\n      \"name\": \"rVYSqEp\",\r\n      \"row\": 1,\r\n      \"colspan\": 14,\r\n      \"rowspan\": 5\r\n    },\r\n    {\r\n      \"type\": \"styled-lists\",\r\n      \"bounds\": {\r\n        \"y\": 0,\r\n        \"x\": 0,\r\n        \"width\": 11.111111111111111,\r\n        \"height\": 22.222222222222221\r\n      },\r\n      \"col\": 0,\r\n      \"name\": \"TjCfC\",\r\n      \"row\": 0,\r\n      \"colspan\": 3,\r\n      \"rowspan\": 4\r\n    }\r\n  ],\r\n  \"qMetaDef\": {\r\n    \"annotation\": \"\",\r\n    \"tags\": [],\r\n    \"description\": \"\",\r\n    \"title\": \"QlikSense\"\r\n  }\r\n}"
+  },
+  "Widgets": []
+}

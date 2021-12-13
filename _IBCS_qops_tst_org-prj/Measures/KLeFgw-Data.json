@@ -1,0 +1,20 @@
+{
+  "qInfo": {
+    "qId": "KLeFgw",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Q2_a",
+    "qDef": "Sum({1<FiscalYear={\"$(vMaxYear)\"},Quarter={\"Q2\"}>}Sales)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Q2'",
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Q2_a",
+    "description": "",
+    "tags": []
+  }
+}

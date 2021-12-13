@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "uCGWjCH",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "FxB Sales",
+    "qDef": "Sum({<FiscalYear={\"$(vMaxYear)\"}>}[FxB_Sales])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "FxB Sales",
+    "description": "",
+    "tags": []
+  }
+}

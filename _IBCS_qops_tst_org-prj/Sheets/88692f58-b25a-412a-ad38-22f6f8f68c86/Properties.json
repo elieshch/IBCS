@@ -1,0 +1,101 @@
+{
+  "qInfo": {
+    "qId": "88692f58-b25a-412a-ad38-22f6f8f68c86",
+    "qType": "sheet"
+  },
+  "thumbnail": {},
+  "labelExpression": "",
+  "rank": 1,
+  "navPoints": [],
+  "descriptionExpression": "",
+  "layoutOptions": {
+    "sheetMode": "CUSTOM"
+  },
+  "pxHeight": 1024,
+  "pxWidth": 1920,
+  "gridResolution": "large",
+  "rows": 18,
+  "columns": 27,
+  "cells": [
+    {
+      "type": "styled-lists",
+      "bounds": {
+        "y": 50,
+        "x": 0,
+        "width": 11.111111111111111,
+        "height": 22.222222222222221
+      },
+      "col": 0,
+      "name": "jCBWs",
+      "row": 9,
+      "colspan": 3,
+      "rowspan": 4
+    },
+    {
+      "type": "styled-lists",
+      "bounds": {
+        "y": 22.222222222222221,
+        "x": 0,
+        "width": 11.111111111111111,
+        "height": 27.777777777777779
+      },
+      "col": 0,
+      "name": "jPgbS",
+      "row": 4,
+      "colspan": 3,
+      "rowspan": 5
+    },
+    {
+      "type": "mekkochart",
+      "col": 18,
+      "name": "JTahsc",
+      "row": 7,
+      "colspan": 9,
+      "rowspan": 6
+    },
+    {
+      "type": "pivot-table",
+      "col": 3,
+      "name": "mjLgpK",
+      "row": 7,
+      "colspan": 14,
+      "rowspan": 6
+    },
+    {
+      "type": "barchart",
+      "col": 18,
+      "name": "PEWPbPP",
+      "row": 1,
+      "colspan": 9,
+      "rowspan": 5
+    },
+    {
+      "type": "table",
+      "col": 3,
+      "name": "rVYSqEp",
+      "row": 1,
+      "colspan": 14,
+      "rowspan": 5
+    },
+    {
+      "type": "styled-lists",
+      "bounds": {
+        "y": 0,
+        "x": 0,
+        "width": 11.111111111111111,
+        "height": 22.222222222222221
+      },
+      "col": 0,
+      "name": "TjCfC",
+      "row": 0,
+      "colspan": 3,
+      "rowspan": 4
+    }
+  ],
+  "qMetaDef": {
+    "annotation": "",
+    "tags": [],
+    "description": "",
+    "title": "QlikSense"
+  }
+}

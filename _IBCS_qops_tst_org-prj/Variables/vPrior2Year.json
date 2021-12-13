@@ -1,0 +1,6 @@
+{
+  "Name": "vPrior2Year",
+  "Definition": "='FY'&(num#(KeepChar(vPriorYear,'0123456789'))-1)",
+  "IsScript": false,
+  "Id": "b197d815-6616-48ef-86db-c54b03358dc0"
+}

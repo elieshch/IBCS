@@ -1,0 +1,11 @@
+{
+  "WidgetJson": "mjLgpK-Data.json",
+  "Row": 7,
+  "Column": 3,
+  "Width": 14,
+  "Height": 6,
+  "Id": "mjLgpK",
+  "Title": "='Actual Sales '&vPriorYear&' & '&vMaxYear",
+  "Type": "pivot-table",
+  "Children": []
+}

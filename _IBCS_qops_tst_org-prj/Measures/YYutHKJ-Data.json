@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "YYutHKJ",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Actual Sales",
+    "qDef": "Sum({<FiscalYear={\"$(vMaxYear)\"}>}[Sales])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Actual Sales",
+    "description": "",
+    "tags": []
+  }
+}

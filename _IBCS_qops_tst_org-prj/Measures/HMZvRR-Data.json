@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "HMZvRR",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "% Sales vs FxB",
+    "qDef": "[Sales vs FxB]/[FxB Sales]",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "% Sales vs FxB",
+    "description": "",
+    "tags": []
+  }
+}

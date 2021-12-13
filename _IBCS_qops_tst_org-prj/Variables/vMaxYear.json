@@ -1,0 +1,6 @@
+{
+  "Name": "vMaxYear",
+  "Definition": "='FY'&(num#(KeepChar(MaxString({$<$(=Concat({1<$Field=E({1<$Field={'FiscalYear'}>}$Field)>}DISTINCT '['&$Field&']=',','))>  *$(=if(Alt(GetSelectedCount([FiscalYear]),0)=0,'1<_kDate={\"=only({1}_kDate)<=Today(1)\"}>','1'))}[FiscalYear]),'0123456789')))",
+  "IsScript": false,
+  "Id": "48f3ccd2-35f7-4ca2-b014-3eed927fcae0"
+}

@@ -1,0 +1,11 @@
+{
+  "WidgetJson": "TjCfC-Data.json",
+  "Row": 0,
+  "Column": 0,
+  "Width": 3,
+  "Height": 4,
+  "Id": "TjCfC",
+  "Title": "Brand",
+  "Type": "styled-lists",
+  "Children": []
+}

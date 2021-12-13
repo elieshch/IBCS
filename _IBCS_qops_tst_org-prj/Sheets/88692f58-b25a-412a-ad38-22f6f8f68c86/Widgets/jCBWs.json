@@ -1,0 +1,11 @@
+{
+  "WidgetJson": "jCBWs-Data.json",
+  "Row": 9,
+  "Column": 0,
+  "Width": 3,
+  "Height": 4,
+  "Id": "jCBWs",
+  "Title": "Fiscal Year",
+  "Type": "styled-lists",
+  "Children": []
+}

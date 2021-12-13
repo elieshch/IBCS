@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "AVzE",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Sales vs FxB",
+    "qDef": "RangeSum([Actual Sales],-[FxB Sales])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "Sales vs FxB",
+    "description": "",
+    "tags": []
+  }
+}

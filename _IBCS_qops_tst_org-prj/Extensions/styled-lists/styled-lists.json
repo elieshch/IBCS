@@ -1,0 +1,22 @@
+{
+  "createdDate": "2021-12-03T12:15:47.939Z",
+  "modifiedDate": "2021-12-03T12:15:47.939Z",
+  "modifiedByUserName": "DVSTS\\e.lieshch",
+  "customProperties": [],
+  "owner": {
+    "id": "ece0b079-7689-468f-9ef2-b29e4fda7e4c",
+    "userId": "e.lieshch",
+    "userDirectory": "DVSTS",
+    "name": "Елена Лещинская"
+  },
+  "name": "styled-lists",
+  "tags": [],
+  "whiteList": {
+    "id": "0106f312-d616-4a72-84a1-12d57bf25aef",
+    "libraryType": 3
+  },
+  "references": [],
+  "schemaPath": "Extension",
+  "id": "07af3dcb-fbc2-4aaf-a43d-12e5a225b155",
+  "qopsExtensionType": "QlikSense"
+}

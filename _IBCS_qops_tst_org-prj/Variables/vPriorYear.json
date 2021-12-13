@@ -1,0 +1,6 @@
+{
+  "Name": "vPriorYear",
+  "Definition": "='FY'&(num#(KeepChar(vMaxYear,'0123456789'))-1)",
+  "IsScript": false,
+  "Id": "7d3085c2-aad6-4ca5-ad97-74f1ebb94e47"
+}

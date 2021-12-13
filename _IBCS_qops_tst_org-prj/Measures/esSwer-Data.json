@@ -1,0 +1,19 @@
+{
+  "qInfo": {
+    "qId": "esSwer",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "% Sales vs FC",
+    "qDef": "[Sales vs FC]/[FC Sales]",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "coloring": {}
+  },
+  "qMetaDef": {
+    "title": "% Sales vs FC",
+    "description": "",
+    "tags": []
+  }
+}
