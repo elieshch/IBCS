@@ -1,0 +1,27 @@
+#comment1
+name: qops-deploying
+on:
+  push:
+    branches:
+      - 'main' 
+      
+     
+
+     
+jobs:
+  qops-build:
+    name: "IBCS"
+    runs-on: [self-hosted, Windows, X64, QS]
+    continue-on-error: false    
+    steps:
+        - name: fetching from repository
+          uses: actions/checkout@v1 
+        
+        - name: set config
+          run: powershell qops-setconfig -SenseUser """win-9b5n3eru6r4\admin""" -SenseCertificate """c:/Users/admin/QOps/client.pfx""" -SenseCertificatePassword """password""" -SenseURL """https://win-9b5n3eru6r4:4747/""" -Filter """Name=_IBCS_qops_tst_org""" -License """0736-FEBA-5410-4854-AC8E-B9CD-9E66""" -Mode QlikSense
+        - name: qops sh
+          run: powershell qops-showdefault
+        - name: qops-build
+          run: powershell qops-build -Filter """Name=_IBCS_qops_tst_org"""
+        - name: qops-reload
+          run: powershell qops-reload -Filter """Name=_IBCS_qops_tst_org"""

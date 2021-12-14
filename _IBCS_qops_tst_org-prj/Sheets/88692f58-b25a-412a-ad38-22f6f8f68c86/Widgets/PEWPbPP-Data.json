@@ -182,8 +182,8 @@
     "mode": "primary",
     "useBaseColors": "off",
     "paletteColor": {
-      "index": 7,
-      "color": "#8e477d"
+      "index": 11,
+      "color": "#633d0c"
     },
     "useDimColVal": true,
     "useMeasureGradient": true,
